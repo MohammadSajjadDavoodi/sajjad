@@ -3,3 +3,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+h1{
+    background-color: black;
+    color: white;
+}
